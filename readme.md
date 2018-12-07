@@ -1,6 +1,6 @@
 # jour75008: Data Skills for Community Reporting
 
-The Newmark School's Social Journalism MA program aims to serve under-reported communities by meeting their information needs. Students choose a community to serve by building a sustainable media business, growing loyalty and establishing trust.
+The Newmark School's [Social Journalism MA program](https://www.journalism.cuny.edu/future-students/m-a-social-journalism/) aims to serve under-reported communities by meeting their information needs. Students choose a community to serve by building a sustainable media business, growing loyalty and establishing trust.
 
 Data skills are critical to effective public engagement work. This course presents fundamentals of data-driven journalism including data gathering, data analysis, data visualization and data reporting.
 
